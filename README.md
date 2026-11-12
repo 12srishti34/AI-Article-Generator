@@ -98,10 +98,13 @@ Enter a topic and click the Generate button.
 
 ## Screenshots
 
-Project screenshots will be added in the `screenshots/` folder.
+### 📸 Project Preview
+
+![AI Article Generator Website](screenshots/website-preview.png)
 
 ## Author
 
 **Srishti Chadha**
 
 GitHub: [12srishti34](https://github.com/12srishti34)
+
